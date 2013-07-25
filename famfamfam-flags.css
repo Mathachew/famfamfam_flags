@@ -19,7 +19,8 @@
 
 .famfamfam-flag-zw { background-position: 0px 0px; width: 16px; height: 11px; }
 .famfamfam-flag-zm { background-position: -16px 0px; width: 16px; height: 11px; }
-.famfamfam-flag-za { background-position: 0px -11px; width: 16px; height: 11px; }
+.famfamfam-flag-za,
+.famfamfam-flag-zar { background-position: 0px -11px; width: 16px; height: 11px; }
 .famfamfam-flag-yt { background-position: -16px -11px; width: 16px; height: 11px; }
 .famfamfam-flag-ye { background-position: -32px 0px; width: 16px; height: 11px; }
 .famfamfam-flag-ws { background-position: -32px -11px; width: 16px; height: 11px; }
@@ -34,7 +35,8 @@
 .famfamfam-flag-va { background-position: -48px -22px; width: 16px; height: 11px; }
 .famfamfam-flag-uz { background-position: -48px -33px; width: 16px; height: 11px; }
 .famfamfam-flag-uy { background-position: 0px -44px; width: 16px; height: 11px; }
-.famfamfam-flag-us { background-position: -16px -44px; width: 16px; height: 11px; }
+.famfamfam-flag-us,
+.famfamfam-flag-usd { background-position: -16px -44px; width: 16px; height: 11px; }
 .famfamfam-flag-um { background-position: -16px -44px; width: 16px; height: 11px; }
 .famfamfam-flag-ug { background-position: -32px -44px; width: 16px; height: 11px; }
 .famfamfam-flag-ua { background-position: -48px -44px; width: 16px; height: 11px; }
@@ -42,14 +44,16 @@
 .famfamfam-flag-tw { background-position: -64px -11px; width: 16px; height: 11px; }
 .famfamfam-flag-tv { background-position: -64px -22px; width: 16px; height: 11px; }
 .famfamfam-flag-tt { background-position: -64px -33px; width: 16px; height: 11px; }
-.famfamfam-flag-tr { background-position: -64px -44px; width: 16px; height: 11px; }
+.famfamfam-flag-tr,
+.famfamfam-flag-trTy { background-position: -64px -44px; width: 16px; height: 11px; }
 .famfamfam-flag-to { background-position: 0px -55px; width: 16px; height: 11px; }
 .famfamfam-flag-tn { background-position: -16px -55px; width: 16px; height: 11px; }
 .famfamfam-flag-tm { background-position: -32px -55px; width: 16px; height: 11px; }
 .famfamfam-flag-tl { background-position: -48px -55px; width: 16px; height: 11px; }
 .famfamfam-flag-tk { background-position: -64px -55px; width: 16px; height: 11px; }
 .famfamfam-flag-tj { background-position: 0px -66px; width: 16px; height: 11px; }
-.famfamfam-flag-th { background-position: -16px -66px; width: 16px; height: 11px; }
+.famfamfam-flag-th,
+.famfamfam-flag-thb { background-position: -16px -66px; width: 16px; height: 11px; }
 .famfamfam-flag-tg { background-position: -32px -66px; width: 16px; height: 11px; }
 .famfamfam-flag-tf { background-position: -48px -66px; width: 16px; height: 11px; }
 .famfamfam-flag-td { background-position: -64px -66px; width: 16px; height: 11px; }
@@ -69,14 +73,16 @@
 .famfamfam-flag-si { background-position: -96px 0px; width: 16px; height: 11px; }
 .famfamfam-flag-sh { background-position: -96px -11px; width: 16px; height: 11px; }
 .famfamfam-flag-sg { background-position: -96px -22px; width: 16px; height: 11px; }
-.famfamfam-flag-se { background-position: -96px -33px; width: 16px; height: 11px; }
+.famfamfam-flag-se,
+.famfamfam-flag-chf { background-position: -96px -33px; width: 16px; height: 11px; }
 .famfamfam-flag-sd { background-position: -96px -44px; width: 16px; height: 11px; }
 .famfamfam-flag-scotland { background-position: -96px -55px; width: 16px; height: 11px; }
 .famfamfam-flag-sc { background-position: -96px -66px; width: 16px; height: 11px; }
 .famfamfam-flag-sb { background-position: -96px -77px; width: 16px; height: 11px; }
 .famfamfam-flag-sa { background-position: 0px -88px; width: 16px; height: 11px; }
 .famfamfam-flag-rw { background-position: -16px -88px; width: 16px; height: 11px; }
-.famfamfam-flag-ru { background-position: -32px -88px; width: 16px; height: 11px; }
+.famfamfam-flag-ru,
+.famfamfam-flag-rub { background-position: -32px -88px; width: 16px; height: 11px; }
 .famfamfam-flag-rs { background-position: -48px -88px; width: 16px; height: 11px; }
 .famfamfam-flag-ro { background-position: -64px -88px; width: 16px; height: 11px; }
 .famfamfam-flag-qa { background-position: -80px -88px; width: 16px; height: 11px; }
@@ -89,13 +95,15 @@
 .famfamfam-flag-pm { background-position: -80px -99px; width: 16px; height: 11px; }
 .famfamfam-flag-pl { background-position: -96px -99px; width: 16px; height: 11px; }
 .famfamfam-flag-pk { background-position: -112px 0px; width: 16px; height: 11px; }
-.famfamfam-flag-ph { background-position: -112px -11px; width: 16px; height: 11px; }
+.famfamfam-flag-ph,
+.famfamfam-flag-php { background-position: -112px -11px; width: 16px; height: 11px; }
 .famfamfam-flag-pg { background-position: -112px -22px; width: 16px; height: 11px; }
 .famfamfam-flag-pf { background-position: -112px -33px; width: 16px; height: 11px; }
 .famfamfam-flag-pe { background-position: -112px -44px; width: 16px; height: 11px; }
 .famfamfam-flag-pa { background-position: -112px -55px; width: 16px; height: 11px; }
 .famfamfam-flag-om { background-position: -112px -66px; width: 16px; height: 11px; }
-.famfamfam-flag-nz { background-position: -112px -77px; width: 16px; height: 11px; }
+.famfamfam-flag-nz,
+.famfamfam-flag-nzd { background-position: -112px -77px; width: 16px; height: 11px; }
 .famfamfam-flag-nu { background-position: -112px -88px; width: 16px; height: 11px; }
 .famfamfam-flag-nr { background-position: -112px -99px; width: 16px; height: 11px; }
 .famfamfam-flag-no { background-position: 0px -110px; width: 16px; height: 11px; }
@@ -109,8 +117,10 @@
 .famfamfam-flag-nc { background-position: -96px -110px; width: 16px; height: 11px; }
 .famfamfam-flag-na { background-position: -112px -110px; width: 16px; height: 11px; }
 .famfamfam-flag-mz { background-position: -128px 0px; width: 16px; height: 11px; }
-.famfamfam-flag-my { background-position: -128px -11px; width: 16px; height: 11px; }
-.famfamfam-flag-mx { background-position: -128px -22px; width: 16px; height: 11px; }
+.famfamfam-flag-my,
+.famfamfam-flag-myr { background-position: -128px -11px; width: 16px; height: 11px; }
+.famfamfam-flag-mx,
+.famfamfam-flag-mxn { background-position: -128px -22px; width: 16px; height: 11px; }
 .famfamfam-flag-mw { background-position: -128px -33px; width: 16px; height: 11px; }
 .famfamfam-flag-mv { background-position: -128px -44px; width: 16px; height: 11px; }
 .famfamfam-flag-mu { background-position: -128px -55px; width: 16px; height: 11px; }
@@ -143,7 +153,8 @@
 .famfamfam-flag-la { background-position: -144px -33px; width: 16px; height: 11px; }
 .famfamfam-flag-kz { background-position: -144px -44px; width: 16px; height: 11px; }
 .famfamfam-flag-ky { background-position: -144px -55px; width: 16px; height: 11px; }
-.famfamfam-flag-kw { background-position: -144px -66px; width: 16px; height: 11px; }
+.famfamfam-flag-kw,
+.famfamfam-flag-kwd { background-position: -144px -66px; width: 16px; height: 11px; }
 .famfamfam-flag-kr { background-position: -144px -77px; width: 16px; height: 11px; }
 .famfamfam-flag-kp { background-position: -144px -88px; width: 16px; height: 11px; }
 .famfamfam-flag-kn { background-position: -144px -99px; width: 16px; height: 11px; }
@@ -152,7 +163,8 @@
 .famfamfam-flag-kh { background-position: -144px -132px; width: 16px; height: 11px; }
 .famfamfam-flag-kg { background-position: 0px -144px; width: 16px; height: 11px; }
 .famfamfam-flag-ke { background-position: -16px -144px; width: 16px; height: 11px; }
-.famfamfam-flag-jp { background-position: -32px -144px; width: 16px; height: 11px; }
+.famfamfam-flag-jp,
+.famfamfam-flag-jpy { background-position: -32px -144px; width: 16px; height: 11px; }
 .famfamfam-flag-jo { background-position: -48px -144px; width: 16px; height: 11px; }
 .famfamfam-flag-jm { background-position: -64px -144px; width: 16px; height: 11px; }
 .famfamfam-flag-je { background-position: -80px -144px; width: 16px; height: 11px; }
@@ -161,7 +173,8 @@
 .famfamfam-flag-ir { background-position: -128px -144px; width: 16px; height: 11px; }
 .famfamfam-flag-iq { background-position: -144px -144px; width: 16px; height: 11px; }
 .famfamfam-flag-io { background-position: -160px 0px; width: 16px; height: 11px; }
-.famfamfam-flag-in { background-position: -160px -11px; width: 16px; height: 11px; }
+.famfamfam-flag-in,
+.famfamfam-flag-inr { background-position: -160px -11px; width: 16px; height: 11px; }
 .famfamfam-flag-im { background-position: -160px -22px; width: 16px; height: 9px; }
 .famfamfam-flag-il { background-position: -160px -31px; width: 16px; height: 11px; }
 .famfamfam-flag-ie { background-position: -160px -42px; width: 16px; height: 11px; }
@@ -170,7 +183,8 @@
 .famfamfam-flag-ht { background-position: -160px -75px; width: 16px; height: 11px; }
 .famfamfam-flag-hr { background-position: -160px -86px; width: 16px; height: 11px; }
 .famfamfam-flag-hn { background-position: -160px -97px; width: 16px; height: 11px; }
-.famfamfam-flag-hk { background-position: -160px -108px; width: 16px; height: 11px; }
+.famfamfam-flag-hk,
+.famfamfam-flag-hkd { background-position: -160px -108px; width: 16px; height: 11px; }
 .famfamfam-flag-gy { background-position: -160px -119px; width: 16px; height: 11px; }
 .famfamfam-flag-gw { background-position: -160px -130px; width: 16px; height: 11px; }
 .famfamfam-flag-gu { background-position: -160px -141px; width: 16px; height: 11px; }
@@ -186,7 +200,8 @@
 .famfamfam-flag-gh { background-position: -144px -155px; width: 16px; height: 11px; }
 .famfamfam-flag-gg { background-position: -160px -155px; width: 16px; height: 11px; }
 .famfamfam-flag-ge { background-position: -176px 0px; width: 16px; height: 11px; }
-.famfamfam-flag-gd { background-position: -176px -11px; width: 16px; height: 11px; }
+.famfamfam-flag-gd,
+.famfamfam-flag-gbp { background-position: -176px -11px; width: 16px; height: 11px; }
 .famfamfam-flag-gb { background-position: -176px -22px; width: 16px; height: 11px; }
 .famfamfam-flag-ga { background-position: -176px -33px; width: 16px; height: 11px; }
 .famfamfam-flag-fr { background-position: -176px -44px; width: 16px; height: 11px; }
@@ -200,7 +215,8 @@
 .famfamfam-flag-fj { background-position: -176px -88px; width: 16px; height: 11px; }
 .famfamfam-flag-fi { background-position: -176px -99px; width: 16px; height: 11px; }
 .famfamfam-flag-fam { background-position: -176px -110px; width: 16px; height: 11px; }
-.famfamfam-flag-eu { background-position: -176px -121px; width: 16px; height: 11px; }
+.famfamfam-flag-eu,
+.famfamfam-flag-eur { background-position: -176px -121px; width: 16px; height: 11px; }
 .famfamfam-flag-et { background-position: -176px -132px; width: 16px; height: 11px; }
 .famfamfam-flag-es { background-position: -176px -143px; width: 16px; height: 11px; }
 .famfamfam-flag-er { background-position: -176px -154px; width: 16px; height: 11px; }
@@ -224,7 +240,8 @@
 .famfamfam-flag-cs { background-position: -80px -177px; width: 16px; height: 11px; }
 .famfamfam-flag-cr { background-position: -96px -177px; width: 16px; height: 11px; }
 .famfamfam-flag-co { background-position: -112px -177px; width: 16px; height: 11px; }
-.famfamfam-flag-cn { background-position: -128px -177px; width: 16px; height: 11px; }
+.famfamfam-flag-cn,
+.famfamfam-flag-cny { background-position: -128px -177px; width: 16px; height: 11px; }
 .famfamfam-flag-cm { background-position: -144px -177px; width: 16px; height: 11px; }
 .famfamfam-flag-cl { background-position: -160px -177px; width: 16px; height: 11px; }
 .famfamfam-flag-ck { background-position: -176px -177px; width: 16px; height: 11px; }
@@ -234,13 +251,15 @@
 .famfamfam-flag-cd { background-position: -192px -33px; width: 16px; height: 11px; }
 .famfamfam-flag-cc { background-position: -192px -44px; width: 16px; height: 11px; }
 .famfamfam-flag-catalonia { background-position: -192px -55px; width: 16px; height: 11px; }
-.famfamfam-flag-ca { background-position: -192px -66px; width: 16px; height: 11px; }
+.famfamfam-flag-ca,
+.famfamfam-flag-cad { background-position: -192px -66px; width: 16px; height: 11px; }
 .famfamfam-flag-bz { background-position: -192px -77px; width: 16px; height: 11px; }
 .famfamfam-flag-by { background-position: -192px -88px; width: 16px; height: 11px; }
 .famfamfam-flag-bw { background-position: -192px -99px; width: 16px; height: 11px; }
 .famfamfam-flag-bt { background-position: -192px -110px; width: 16px; height: 11px; }
 .famfamfam-flag-bs { background-position: -192px -121px; width: 16px; height: 11px; }
-.famfamfam-flag-br { background-position: -192px -132px; width: 16px; height: 11px; }
+.famfamfam-flag-br,
+.famfamfam-flag-brl { background-position: -192px -132px; width: 16px; height: 11px; }
 .famfamfam-flag-bq { background-position: -192px -143px; width: 16px; height: 11px; }
 .famfamfam-flag-bo { background-position: -192px -154px; width: 16px; height: 11px; }
 .famfamfam-flag-bn { background-position: -192px -165px; width: 16px; height: 11px; }
@@ -257,7 +276,8 @@
 .famfamfam-flag-az { background-position: -144px -188px; width: 16px; height: 11px; }
 .famfamfam-flag-ax { background-position: -160px -188px; width: 16px; height: 11px; }
 .famfamfam-flag-aw { background-position: -176px -188px; width: 16px; height: 11px; }
-.famfamfam-flag-au { background-position: -192px -188px; width: 16px; height: 11px; }
+.famfamfam-flag-au,
+.famfamfam-flag-aud { background-position: -192px -188px; width: 16px; height: 11px; }
 .famfamfam-flag-hm { background-position: -192px -188px; width: 16px; height: 11px; }
 .famfamfam-flag-at { background-position: -208px 0px; width: 16px; height: 11px; }
 .famfamfam-flag-as { background-position: -208px -11px; width: 16px; height: 11px; }
@@ -269,7 +289,8 @@
 .famfamfam-flag-ai { background-position: -208px -77px; width: 16px; height: 11px; }
 .famfamfam-flag-ag { background-position: -208px -88px; width: 16px; height: 11px; }
 .famfamfam-flag-af { background-position: -208px -99px; width: 16px; height: 11px; }
-.famfamfam-flag-ae { background-position: -208px -110px; width: 16px; height: 11px; }
+.famfamfam-flag-ae,
+.famfamfam-flag-aed { background-position: -208px -110px; width: 16px; height: 11px; }
 .famfamfam-flag-ad { background-position: -208px -121px; width: 16px; height: 11px; }
 .famfamfam-flag-np { background-position: -208px -132px; width: 9px; height: 11px; }
 .famfamfam-flag-ch { background-position: -208px -143px; width: 11px; height: 11px; }
